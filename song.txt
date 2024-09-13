@@ -6,9 +6,6 @@ two more lines
 check conflict
 
 sdfsdfsdf
-sdfsdfsdfsdfsdf
 
-branch commit
 
-for tag only
-
+content to be saved
